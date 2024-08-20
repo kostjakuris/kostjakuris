@@ -10,8 +10,9 @@ I like to learn something new and achive new goals.I would be grateful to help y
 
 My skills:
 
-
 [![](https://github.com/tandpfun/skill-icons/blob/main/icons/React-Light.svg)](https://react.dev/) [![](https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg)]() [![](https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg)](https://html.com/) [![](https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Light.sv)](https://nextjs.org/) [![](https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg)](https://www.typescriptlang.org/) [![](https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg)](https://redux.js.org/) [![](https://github.com/tandpfun/skill-icons/blob/main/icons/Regex-Light.svg)](https://regexr.com/) [![](https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg)](https://redux.js.org/) 
+
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Light.svg)](https://react.dev/" width="200" height="100">
 
 
 
