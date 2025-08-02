@@ -4,11 +4,10 @@
 
 ## Junior Frontend and Fullstack developer
 
-Hello, my name is Konstantin Kuris and I'm a junior Frontend developer. I'm getting experience with using React, Next.js and a lot of new technogies and knowledges,which is very interesting for me. I like to learn something new and achive new goals.I would be grateful to help you to improve or implement interface for your project and I'll do my best to do it
+Hello, my name is Konstantin Kuris and I'm a fullstack developer with more than two years of experience. I code in React and Next.js. I have implemented desktop and mobile layouts and connected the frontend with the backend. I have completed a few internships and was working at a startup as a frontend developer during over one year. Also I was working in a company as a fullstack developer. I'm interested in programming languages and always try to improve my skills.I like to learn something new and achive new goals.I would be grateful to help you to improve or implement interface for your project and I'll do my best to do it
 
 <ul>
  <li>You can contact me at kostjn04e@gmail.com or in Telegram - @DarkLord04e !</li>
-  <li>I'm having an internship now!</li>
 </ul>
 
 My skills:
