@@ -2,7 +2,7 @@
 
 ## I'm Konstantin Kiris
 
-## Junior Frontend developer
+## Junior Frontend and Fullstack developer
 
 Hello, my name is Konstantin Kuris and I'm a junior Frontend developer. I'm getting experience with using React, Next.js and a lot of new technogies and knowledges,which is very interesting for me. I like to learn something new and achive new goals.I would be grateful to help you to improve or implement interface for your project and I'll do my best to do it
 
